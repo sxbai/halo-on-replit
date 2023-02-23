@@ -6,12 +6,12 @@ Jar是我重新用官方仓库：[https://github.com/halo-dev/halo](https://gith
 
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)   
 
-Halo1.6.1脚本
+Halov1.6.1一键脚本
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install.sh)
 ```
 
-Halo2.2.1脚本
+Halov2.2.1一键脚本
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install2.sh)
 ```
