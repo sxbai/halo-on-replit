@@ -1,0 +1,1 @@
+java -jar halo.jar
