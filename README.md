@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/ins
 ```
 
 Halo一键升级脚本(Halo1.6不可使用此脚本，必须Halo2.0之后)
-> 当前更新版本`2.3.0`   
+> 当前更新版本`2.3.1`
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/update.sh)
