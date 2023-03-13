@@ -1,1 +1,1 @@
-java -jar halo.jar
+java -jar -Duser.timezone=Asia/Shanghai halo.jar
