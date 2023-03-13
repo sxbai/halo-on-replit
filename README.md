@@ -7,8 +7,8 @@
 <p align="center"><b>Halo</b>[ˈheɪloʊ]部署于Replit，好用又强大的开源建站工具。</p>
 
 <p align="center">
-<a href="https://github.com/Atticus6/halo-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/halo-on-replit.svg?style=flat-square&include_prereleases" /></a>
-<a href="https://github.com/Atticus6/halo-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/halo-on-replit.svg?style=flat-square" /></a>
+<a href="https://github.com/sxbai/halo-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/sxbai/halo-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/sxbai/halo-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sxbai/halo-on-replit.svg?style=flat-square" /></a>
 
 <br />
 <a href="https://blog.sxbai.com">博客</a>
