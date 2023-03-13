@@ -1,3 +1,23 @@
+<p align="center">
+    <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
+        <img width="100" src="https://halo.run/logo" alt="Halo logo" />
+    </a>
+</p>
+
+<p align="center"><b>Halo</b>[ˈheɪloʊ]移植于replit，好用又强大的开源建站工具。</p>
+
+<p align="center">
+<a href="https://github.com/Atticus6/halo-on-replit/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/Atticus6/halo-on-replit.svg?style=flat-square&include_prereleases" /></a>
+<a href="https://github.com/Atticus6/halo-on-replit/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Atticus6/halo-on-replit.svg?style=flat-square" /></a>
+
+<br />
+<a href="https://blog.sxbai.com">博客</a>
+<a href="https://docs.halo.run">文档</a>
+<a href="https://bbs.halo.run">社区</a>
+<a href="https://t.me/sxbai">Telegram 频道</a>
+</p>
+
+------------------------------
 # 使用说明
 欢迎Fork本项目，Halo-On-Alist   
 Jar是我重新用官方仓库：[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo) 编译打包的   
