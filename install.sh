@@ -8,10 +8,8 @@ wget -O .replit https://github.com/sxbai/halo-on-replit/raw/master/.replit
 wget -O replit.nix https://github.com/sxbai/halo-on-replit/raw/master/replit.nix
 cd ..
 wget -O main.sh https://github.com/sxbai/halo-on-replit/raw/master/main.sh
-cp -r halo-on-replit/.replit .replit
-cp -r halo-on-replit/replit.nix replit.nix
 wget -O halo.jar https://down.sxbai.repl.co/dl/halo1.6.jar
-bash main.sh
+cp -r build/.replit . && cp -r build/replit.nix .
 echo "搭建完成！！！"
 echo "Halo博客v1.6.1一键搭建脚本"
 echo "脚本作者：舒夏"
