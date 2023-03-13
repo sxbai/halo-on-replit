@@ -22,3 +22,20 @@ Halo一键升级脚本(Halo1.6不可使用此脚本，必须Halo2.0之后)
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/update.sh)
 ```
+## Halo2.0以上版本自定义密码
+Halo文档演示是这样的:
+`--halo.security.initializer.superadminusername=admin`
+`--halo.security.initializer.superadminpassword=P@88w0rd`
+但因为replit免费版是公开可见的，所以这样设置明文任何人都会看到你的账户和密码。
+所以需要在`Secrets`这里设置环境变量内容如下：
+![](https://img.sxbai.repl.co/img/2023-03-01110753.png)
+![](https://img.sxbai.repl.co/img/2023-03-01110916.png)
+![](https://img.sxbai.repl.co/img/2023-03-01111027.png)
+设置好点击Run按钮就可以了！
+# 自定义网址说明
+`--halo.external-url=http://localhost:8090/`
+例如:
+```bash
+java -jar halo.jar --halo.external-url=https://xxx.com/ --halo.security.initializer.superadminusername=${username} --halo.security.initializer.superadminpassword=${password}
+```
+`https://xxx.com/`设置成为你绑定replit的域名就可以了。
