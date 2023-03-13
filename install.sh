@@ -15,4 +15,4 @@ echo "Halo博客v1.6.1一键搭建脚本"
 echo "脚本作者：舒夏"
 echo "GitHub开源地址：https://github.com/sxbai/halo-on-replit"
 echo "点击Run按钮，启动Halo博客项目! 使用愉快!!!"
-rm -rf halo-on-replit/ && rm -rf install.sh
+rm -rf build/ && rm -rf install.sh
