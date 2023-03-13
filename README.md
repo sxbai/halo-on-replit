@@ -11,7 +11,7 @@ Halov1.6.1一键脚本
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install.sh)
 ```
 
-Halov2.2.1一键脚本
+Halov2.3.1一键脚本
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/halo-on-replit/master/install2.sh)
 ```
