@@ -53,7 +53,8 @@ Halo文档演示是这样的:
 ![](https://img.sxbai.repl.co/img/2023-03-01110753.png)
 ![](https://img.sxbai.repl.co/img/2023-03-01110916.png)
 ![](https://img.sxbai.repl.co/img/2023-03-01111027.png)
-设置好点击Run按钮就可以了！
+`test`仅作为演示的管理员用户名，`test123456`仅作为演示的管理员密码
+设置好自己的管理员用户名及密码，点击Run按钮就可以了！
 # 自定义网址说明
 `--halo.external-url=http://localhost:8090/`
 例如:
