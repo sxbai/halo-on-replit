@@ -1,1 +1,1 @@
-java -jar -Duser.timezone=Asia/Shanghai halo.jar
+java -jar -Duser.timezone=Asia/Shanghai halo.jar --halo_work_dir=${PWD}/.halo2 --halo.external-url=https://${REPL_SLUG}.${REPL_OWNER}.repl.co/ --halo.security.initializer.super-admin-username=${username} --halo.security.initializer.super-admin-password=${password}
