@@ -8,7 +8,7 @@ wget -O .replit https://github.com/sxbai/halo-on-replit/raw/master/install2/.rep
 wget -O replit.nix https://github.com/sxbai/halo-on-replit/raw/master/install2/replit.nix
 cd ..
 wget -O main.sh https://github.com/sxbai/halo-on-replit/raw/master/install2/main.sh
-wget -O halo.jar https://down2.sxbai.repl.co/halo/halo-2.3.2.jar
+wget -O halo.jar https://down2.sxbai.repl.co/halo/v2.3.2/halo-2.3.2.jar
 cp -r build/.replit . && cp -r build/replit.nix .
 rm -rf build/
 echo "首次搭建需要在Secrets设置环境变量"
