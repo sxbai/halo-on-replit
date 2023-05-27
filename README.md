@@ -51,9 +51,9 @@ Halo文档演示是这样的:
 ```
 但因为replit免费版是公开可见的，所以这样设置明文任何人都会看到你的账户和密码。
 所以需要在`Secrets`这里设置环境变量内容如下：
-![](https://img.sxbai.repl.co/img/2023-03-01110753.png)
-![](https://img.sxbai.repl.co/img/2023-03-01110916.png)
-![](https://img.sxbai.repl.co/img/2023-03-01111027.png)
+![](https://img.l04.repl.co/img/2023-03-01110753.png)
+![](https://img.l04.repl.co/img/2023-03-01110916.png)
+![](https://img.l04.repl.co/img/2023-03-01111027.png)
 `test`仅作为演示的管理员用户名，`test123456`仅作为演示的管理员密码
 设置好自己的管理员用户名及密码，点击Run按钮就可以了！
 # 自定义网址说明
