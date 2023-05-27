@@ -16,4 +16,4 @@ echo "设置账号和密码的环境变量，点Run启动Halo项目！！！"
 echo "Halo博客v2.6.0-rc.1一键搭建脚本"
 echo "脚本作者：舒夏"
 echo "GitHub开源地址：https://github.com/sxbai/halo-on-replit"
-rm -rf install2.sh
+rm -rf README.md
